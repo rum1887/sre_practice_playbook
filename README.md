@@ -18,6 +18,7 @@
 - Study how to implement different deployment types using terraform (blue-green, canary)
 - Terraform with CI/CD pipeline
 - Terraform project template (key directories and files and their significance)
+- terraform built in functions like depends_on (a resource should be created before the other resource), count(number of resources to be created), map (std cpp type map)
 
 # CI/CD
 - Github actions
