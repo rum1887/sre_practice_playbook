@@ -7,7 +7,7 @@
 - terraform workspace -h (terraform workspace new dev; terraform workspace select dev;) (to manage multiple env with single terraform project; multiple statefiles for each env)
 - Creating Terraform modules
 - Configuring remote backends and applying locks to handle concurrent "terraform apply" requests
-- Provisioners for ansible like capablities
+- Provisioners for ansible like capablities (local-exec, remote-exec)
 - Secrets management (hashicorp vault)
 - tree command useful
 - ssh -i key ubuntu@ip_address command to ssh into ec2 instance, listing useful commands for devops engineers
