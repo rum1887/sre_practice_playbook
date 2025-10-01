@@ -1,2 +1,10 @@
 # terraform
-Playing around with terraform, CI/ CD using jenkins and github actions etc
+terraform init
+terraform plan
+terraform apply
+terraform destroy
+terraform import
+
+# CICD
+- Github actions
+- Jenkins
