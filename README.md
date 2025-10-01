@@ -7,6 +7,8 @@
 - terraform workspace -h (terraform workspace new dev; terraform workspace select dev;) (to manage multiple env with single terraform project; multiple statefiles for each env)
 - Creating Terraform modules
 - configuring remote backends and applying locks to handle concurrent apply requests
+- Provisioners for ansible like capablities
+- Secrets management (hashicorp vault)
   
 # CI/CD
 - Github actions
