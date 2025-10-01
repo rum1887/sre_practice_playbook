@@ -3,9 +3,9 @@
 - terraform plan
 - terraform apply
 - terraform destroy
-- terraform import
-- terraform workspace
-- terraform modules
+- terraform import (to import statefile config for a resource manually created on a cloud provider (code must be written first before import))
+- terraform workspace -h (terraform workspace new dev; terraform workdpace select dev;)
+- Creating Terraform modules
 
 # CI/CD
 - Github actions
