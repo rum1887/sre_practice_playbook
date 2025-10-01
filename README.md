@@ -5,6 +5,20 @@
 - terraform destroy
 - terraform import
 
-# CICD
+# CI/CD
 - Github actions
 - Jenkins
+
+# Ansible
+
+# Docker
+
+# Kubernetes
+
+# Cloud providers
+- AWS
+- Azure
+- GCP
+
+# Networking 
+# Linux
