@@ -1,4 +1,5 @@
 # Terraform
+- Authenticating with the providers
 - terraform init
 - terraform plan
 - terraform apply
