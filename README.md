@@ -1,10 +1,11 @@
 # Terraform
 - Infra provisioning tool (cloud provider agnostic) , converts files to native APIs of the cloud provider that we select. (IAC tools like cloud formation templates, heatmaps, azure resource manager are cloud provider specific)
 - Authenticating with the providers
-- terraform init
-- terraform plan
-- terraform apply
-- terraform destroy
+- Main commands (Lifecycle of terraform)
+  - terraform init
+  - terraform plan
+  - terraform apply
+  - terraform destroy
 - terraform import (to import statefile config for a resource manually created on a cloud provider (code must be written first before import))
 - terraform workspace -h (terraform workspace new dev; terraform workspace select dev;) (to manage multiple env with single terraform project; multiple statefiles for each env)
 - Creating Terraform modules
