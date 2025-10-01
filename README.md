@@ -12,7 +12,7 @@
 - Configuring remote backends and applying locks to handle concurrent "terraform apply" requests
 - Provisioners for ansible like capablities (local-exec, remote-exec)
 - Secrets management (hashicorp vault)
-- tree command useful
+- tree command useful (had to brew install because it was not present by default)
 - ssh -i key ubuntu@ip_address command to ssh into ec2 instance, listing useful commands for devops engineers
 - ssh-keygen -t rsa, creates a public and a pvt key in the folder ~/.ssh/id_rsa
 - Best practices to manage statefile
