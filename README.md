@@ -3,7 +3,7 @@
 # Terraform
 - Infra provisioning tool (cloud provider agnostic) , converts files to native APIs of the cloud provider that we select. (IAC tools like cloud formation templates, heatmaps, azure resource manager are cloud provider specific)
 - IDE and plugins setup (VSCODE)
-- Authenticating with the providers
+- Authenticating with the providers (aws configure command for ex)
 - Main commands (Lifecycle of terraform)
   - terraform init
   - terraform plan
