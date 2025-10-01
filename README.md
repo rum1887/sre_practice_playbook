@@ -17,6 +17,7 @@
 - syntax practice
 - Study how to implement different deployment types using terraform (blue-green, canary)
 - Terraform with CI/CD pipeline
+- Terraform project template (key directories and files and their significance)
 
 # CI/CD
 - Github actions
