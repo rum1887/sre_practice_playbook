@@ -43,5 +43,9 @@
 
 # Networking 
 # Linux
+# Observablity tools 
+- grafana
+- prometheus
+
 # Handy python scripts
 # Version control
