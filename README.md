@@ -19,6 +19,7 @@
 - Terraform with CI/CD pipeline
 - Terraform project template (key directories and files and their significance)
 - terraform built in functions like depends_on (a resource should be created before the other resource), count(number of resources to be created), map (std cpp type map)
+- Automated testing for terraform code using terratest, kitchen-terraform, tflint etc
 
 # CI/CD
 - Github actions
