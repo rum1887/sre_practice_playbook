@@ -4,6 +4,8 @@
 - terraform apply
 - terraform destroy
 - terraform import
+- terraform workspace
+- terraform modules
 
 # CI/CD
 - Github actions
