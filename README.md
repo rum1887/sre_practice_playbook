@@ -1,4 +1,5 @@
 # Terraform
+- Infra provisioning tool (cloud provider agnostic) , converts files to native APIs of the cloud provider that we select. (IAC tools like cloud formation templates, heatmaps, azure resource manager are cloud provider specific)
 - Authenticating with the providers
 - terraform init
 - terraform plan
