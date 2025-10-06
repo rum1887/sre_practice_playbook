@@ -63,6 +63,8 @@
     - NACLs (Network access control list: denys traffic at a subnet level)
     - 
 - Azure
+    - Pvtt vs public cloud, Creating an account, resources, Resource manager
+    - Resource groups (access, permission, security, auditing, cost optimization) and subscriptions
     - Azure devops and security services
     - Azure git, Azure boards, Azure pipelines, Azure repositories
     - Sentinal, Log analytics workspace, Logic apps  
