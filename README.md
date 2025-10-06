@@ -48,7 +48,24 @@
 
 # Cloud providers
 - AWS
+    - Public vs private cloud
+    - EC2 instances (elastic cloud compute, compute optmized, memory optimized, storage optmized etc)
+    - S3 buckets (simple storage service, upto 5tb of data)
+    - VPC (Virtual private cloud)
+    - Load balancer (Healthchecks and sends requests to appropriete server)
+    - Route53 DNS Service (helps resolve domain name)
+    - Jump servers (Let's you connect to pvt subnets)
+    - NAT Gateways (Lets pct subnets connect to the internet, hides the IP of the pvt subnet, instead uses its own IP)
+    - Subnets (Number of IPs/ range of IPs)
+    - Autoscaling groups (helps scale resources during high traffic)
+    - Route tables (helps route traffic)
+    - Security groups (allow//deny traffic at instance level)
+    - NACLs (Network access control list: denys traffic at a subnet level)
+    - 
 - Azure
+    - Azure devops and security services
+    - Azure git, Azure boards, Azure pipelines, Azure repositories
+    - Sentinal, Log analytics workspace, Logic apps  
 - GCP
 
 # Networking 
