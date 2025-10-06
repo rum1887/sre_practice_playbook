@@ -32,6 +32,15 @@
 - Jenkins
 
 # Ansible
+- To create resources on remote servers
+- Idempotent (resources already created will not be recreated)
+- password less authentication?
+- ansible adhoc cammands
+- ansible playbooks (scripts to manage)
+- ansible roles (directory structure templates)
+- ansible collections to provision resources using api. Host? local host
+- ansible vault
+- practice exercises
 
 # Docker
 
@@ -43,6 +52,7 @@
 - GCP
 
 # Networking 
+
 # Linux
 # Observablity tools 
 - Grafana
