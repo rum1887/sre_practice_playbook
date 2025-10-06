@@ -33,13 +33,18 @@
 
 # Ansible
 - To create resources on remote servers
+- Advantages over puppet/chef? uses easy to read yaml syntax, agentless (No need to install any agents onm the host machine )!
 - Idempotent (resources already created will not be recreated)
 - password less authentication?
 - ansible adhoc cammands
+- Inventory file, grouping of hosts
+- ansible architecture (control nodes, remote nodes)
 - ansible playbooks (scripts to manage)
 - ansible roles (directory structure templates)
 - ansible collections to provision resources using api. Host? local host
 - ansible vault
+- variables, handlers etc
+- jinja2 templating {{}} to create call the vars that are created
 - practice exercises
 
 # Docker
@@ -64,7 +69,8 @@
     - 
 - Azure
     - Pvtt vs public cloud, Creating an account, resources, Resource manager
-    - Resource groups (access, permission, security, auditing, cost optimization) and subscriptions
+    - Resource groups (Grouping of resources based on service and env, helps with access control , permission, security, auditing, cost optimization), one resource can be a part of only one resource group! Naming convention for the resource group is very imp , servicename_env ex: payments_prod, payments_dev, payments_sit
+    - Subscriptions
     - Azure devops and security services
     - Azure git, Azure boards, Azure pipelines, Azure repositories
     - Sentinal, Log analytics workspace, Logic apps  
