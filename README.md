@@ -71,6 +71,9 @@
 # Networking 
 
 # Linux
+chown ownwe_name:group_name filename
+chmod 600(rw-) filename
+
 # Observablity tools 
 - Grafana
 - Prometheus
