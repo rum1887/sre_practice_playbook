@@ -71,8 +71,9 @@
 # Networking 
 
 # Linux
-chown ownwe_name:group_name filename
-chmod 600(rw-) filename
+- chown owner_name:group_name filename
+- chmod 600(rw-) filename
+- Dir var/logs, /bin or /usr//local/bin or /usr/bin, /etc
 
 # Observablity tools 
 - Grafana
