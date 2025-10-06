@@ -55,11 +55,11 @@
     - Load balancer (Healthchecks and sends requests to appropriete server)
     - Route53 DNS Service (helps resolve domain name)
     - Jump servers (Let's you connect to pvt subnets)
-    - NAT Gateways (Lets pct subnets connect to the internet, hides the IP of the pvt subnet, instead uses its own IP)
+    - NAT Gateways (Lets pvt subnets connect to the internet, hides the IP of the pvt subnet, instead uses its own IP)
     - Subnets (Number of IPs/ range of IPs)
     - Autoscaling groups (helps scale resources during high traffic)
     - Route tables (helps route traffic)
-    - Security groups (allow//deny traffic at instance level)
+    - Security groups (allow/deny traffic at instance level)
     - NACLs (Network access control list: denys traffic at a subnet level)
     - 
 - Azure
