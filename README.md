@@ -104,3 +104,8 @@
 - sso
 - oauth
 - saml
+
+# Git
+- git cherry-pick
+- git rebase
+- git merge
