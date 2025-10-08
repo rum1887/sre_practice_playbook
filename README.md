@@ -77,6 +77,16 @@
 - GCP
 
 # Networking 
+ssl/tls?
+How is https secure? Explain in detail
+LDAP
+AD
+ssh
+scp
+curl 
+osi
+tcp
+udp 
 
 # Linux
 - chown owner_name:group_name filename
@@ -90,3 +100,4 @@
 
 # Handy python scripts
 # Version control
+# Auth
