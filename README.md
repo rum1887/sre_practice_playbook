@@ -81,6 +81,7 @@
 # Linux
 - chown owner_name:group_name filename
 - chmod 600(rw-) filename
+- ps -ef | grep jenkins(process_name)
 - Dir var/logs, /bin or /usr//local/bin or /usr/bin, /etc
 
 # Observablity tools 
